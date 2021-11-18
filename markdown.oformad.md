@@ -20,11 +20,11 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 
 SETJA TÖFLUNA HÉR
 
-| python        | c/c++         |
-| ------------- |:-------------:|
-| print         | serial.print()|
-| while < 10    | while(1<10)   |
-| def fall()    | void fall()   |
+| python         c/c++         |
+| ------------- :-------------:|
+| print          serial.print()|
+| while < 10     while(1<10)   |
+| def fall()     void fall()   |
 
 
 
