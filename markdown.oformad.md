@@ -20,25 +20,25 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 
 SETJA TÖFLUNA HÉR
 
-| python         c/c++         |
-| ------------- :-------------:|
-| print          serial.print()|
-| while < 10     while(1<10)   |
-| def fall()     void fall()   |
+| python        | c/c++         |
+| ------------- |:-------------:|
+| print         | serial.print()|
+| while < 10    | while(1<10)   |
+| def fall()    | void fall()   |
 
 
 
 
 #### Et pariatur velit do adipisicing culpa velit non cillum minim.
-
+```
 s = "Halló markdown!"
 print(s)
-
+```
 ---
-
+```
 String s = "Halló markdown!";
 Serial.println(s);
-
+```
 ### Id aute pariatur consectetur mollit consectetur sit velit laborum cillum est in eiusmod veniam anim.
 
 >Do duis ut est consequat tempor amet ex eiusmod sunt pariatur proident laborum.
