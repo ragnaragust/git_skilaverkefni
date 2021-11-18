@@ -8,11 +8,11 @@
 
 Consectetur nisi non ipsum anim id cupidatat cillum aliquip magna in mollit adipisicing excepteur dolore. 
 
-#### Culpa adipisicing consectetur quis pariatur cupidatat quis do.
+__ Culpa adipisicing consectetur quis pariatur cupidatat quis do.__
 
 Lorem veniam fugiat do laborum reprehenderit ex veniam. Consequat anim dolore reprehenderit pariatur et ad occaecat sint. Enim nulla qui dolore do. 
 
-#### Ut sunt incididunt magna aute sint veniam dolor laborum.
+__Ut sunt incididunt magna aute sint veniam dolor laborum.__
 
 Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa id sit Lorem. Magna sint magna sint do ex ipsum tempor duis esse dolore elit irure.
 
@@ -21,10 +21,13 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 SETJA TÖFLUNA HÉR
 
 **python c/c++**
+
 print     serial.print()
 
 
-Et pariatur velit do adipisicing culpa velit non cillum minim.
+
+
+**Et pariatur velit do adipisicing culpa velit non cillum minim.**
 
 s = "Halló markdown!"
 print(s)
@@ -32,20 +35,20 @@ print(s)
 String s = "Halló markdown!";
 Serial.println(s);
 
-Id aute pariatur consectetur mollit consectetur sit velit laborum cillum est in eiusmod veniam anim.
+### Id aute pariatur consectetur mollit consectetur sit velit laborum cillum est in eiusmod veniam anim.
 
-Do duis ut est consequat tempor amet ex eiusmod sunt pariatur proident laborum.
+>Do duis ut est consequat tempor amet ex eiusmod sunt pariatur proident laborum.
 
-Do duis ut est
-Do duis ut est
-Do duis ut est 
+__Do duis ut est__
+* Do duis ut est
+* Do duis ut est 
 
-Incididunt eiusmod enim culpa sit voluptate velit adipisicing voluptate anim ut incididunt commodo ea.
+__Incididunt eiusmod enim culpa sit voluptate velit adipisicing voluptate anim ut incididunt commodo ea.__
 
 SETJA MYNDINA HÉR
 
-Commodo quis id ut deserunt cillum.
+__Commodo quis id ut deserunt cillum.__
 
-SETJA YOUTUBE MYNDBANDIÐ HÉR
+[!SETJA YOUTUBE MYNDBANDIÐ HÉR](HUBNt18RFbo)
 
 
